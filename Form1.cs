@@ -1,9 +1,3 @@
-﻿// Decompiled with JetBrains decompiler
-// Type: Employee_Parser.Form1
-// Assembly: Employee Parser, Version=3.0.0.0, Culture=neutral, PublicKeyToken=null
-// MVID: 65AB8F43-3C27-4711-8C5C-FDB89C897095
-// Assembly location: C:\Employee Parser\Employee Parser.exe
-
 using csvformattingtools;
 using System;
 using System.ComponentModel;
